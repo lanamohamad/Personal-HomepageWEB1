@@ -1,0 +1,88 @@
+body{
+  background-color: #fffbeb;
+  font-family: "Montserrat", sans-serif;
+};
+/* i tried to use the css from the website but it didn't work - 
+.montserrat-<uniquifier> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+  so i just left it as how you had it in the tutorial*/
+
+
+.wrapper{
+  background-color: white; border: 2px solid #546880;
+}
+
+header{
+  background-color: #c0cac9;
+  padding: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header h1{
+  font-size: 325%;
+
+font-family: 'Montserrat', 'sans-serif';
+  .chicle-regular {
+  font-family: "Chicle", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+  
+
+}
+
+header h2{
+  font-size: 200;
+  color: #546880;
+}
+
+header figure{
+  width: 200px;
+  text-align: center;
+  margin-left: 3em;
+  font-size: 80%;
+}
+
+header img{
+  border: 2px solid white;
+  border-radius: 2em;
+  margin-bottom: .5em;
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
+main{
+  width: 960px;
+  margin: 0 auto;
+  font-size: 135%;
+  line-height: 1.3;
+  padding: 1em 0 0 0;
+}
+
+footer{
+  background-color: #c0cac9;
+  padding: 1em;
+  display: flex;
+  justify-content: space-around;
+  align-items: cen/;
+}
+
+footer a{
+  font-size: 160%;
+  text-decoration: none;
+  color: #546880;
+}
+
+footer a:hover {
+  color: blue;
+  text-shadow: 0 0 5px white;
+
+}
